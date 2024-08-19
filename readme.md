@@ -1,8 +1,6 @@
 img src="https://github.com/itsdagi/itsdagi/blob/master/github.gif" />
 
-- 🔭 I’m currently working on [Next.js Productivity Website](https://github.com/AbdulDevHub/Opal-Labs-Frontend)
-- 🌱 I’m currently learning **Next.js, Three.js, & SQL**
-- 👨‍💻 All of my projects are available at [abdulhadikhan.netlify.app](https://abdulhadikhan.netlify.app/) and [abdulhadikhan.vercel.app](https://abdulhadikhan.vercel.app/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -165,19 +163,19 @@ img src="https://github.com/itsdagi/itsdagi/blob/master/github.gif" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=itsdagi&show_icons=true&locale=en&layout=compact&theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=itsdagi&show_icons=true&locale=en&layout=compact&theme=light">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsdagi&show_icons=true&locale=en&layout=compact&theme=light" alt="abduldevhub" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsdagi&show_icons=true&locale=en&layout=compact&theme=light" alt="itsdagi" />
   </picture>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=itsdagi&show_icons=true&locale=en&theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=itsdagi&show_icons=true&locale=en&theme=light">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsdagi&show_icons=true&locale=en&theme=light" alt="abduldevhub" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsdagi&show_icons=true&locale=en&theme=light" alt="itsdagi" />
   </picture>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=itsdagi&theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=itsdagi&theme=light">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsdagi&theme=light" alt="abduldevhub" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsdagi&theme=light" alt="itsdagi" />
   </picture>
 </div>
 
