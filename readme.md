@@ -1,13 +1,4 @@
-img src="https://github.com/itsdagi/itsdagi/blob/master/github.gif" />
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/abdul-hadi-khan" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="abdul-hadi-khan" height="40" width="40" />
-  </a>
-  
   <a href="https://www.youtube.com/@learningexpressway/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learning expressway" height="40" width="40" />
   </a>
@@ -179,23 +170,3 @@ img src="https://github.com/itsdagi/itsdagi/blob/master/github.gif" />
   </picture>
 </div>
 
-<!-- Code To Render Snake GIF -->
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsdagi/itsdagi/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsdagi/itsdagi/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/itsdagi/itsdagi/output/github-contribution-grid-snake.svg" />
-  </picture>
-  
-  <br/><br/>
-</div>
-
-<!-- Code To Render 3D Commit Table -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="GitHub Profile Contribution graph" />
-</picture>
-<br/><br/>
