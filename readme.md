@@ -38,33 +38,17 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
     
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
-  </a>
 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
-  </a>
+
+ 
     
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="Images/Dark%20Versions/MySql.png" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-    </picture>
-  </a>
+
     
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> 
   </a>
     
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="Images/Dark%20Versions/Netlify.png" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/>
-    </picture>
-  </a>
+
 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
@@ -74,17 +58,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> 
   </a>
   
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/> 
-  </a>
+ 
     
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> 
   </a>
   
-  <a href="https://prismic.io" target="_blank" rel="noreferrer"> 
-    <img src="Images/Prismic.png" alt="prismic" width="40" height="40"/> 
-  </a>
+ 
 
   <a href="https://pptr.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" alt="puppeteer" width="40" height="40"/>
@@ -106,33 +86,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind css" width="40" height="40"/>
   </a>
 
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="Images/Dark%20Versions/Threejs.png" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="three.js" width="40" height="40"/>
-    </picture>
-  </a>
+  
     
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="Images/Dark%20Versions/Unity.png" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
-    </picture>
-  </a>
+ 
 
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="Images/Dark%20Versions/Vercel.png" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
-    </picture>
-  </a>
+  
     
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40"/> 
